@@ -31,6 +31,7 @@
 *.out
 *.app
 
+# CMake
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -44,8 +45,10 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+# Build
 out/build
 
 [Bb][Uu][Ii][Ll][Dd]
 
+# Visual Studio
 .vs
